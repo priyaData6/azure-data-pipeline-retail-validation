@@ -1,0 +1,7 @@
+customer_id,email,amount,created_date
+C101,neha.sharma@mail.com,1250,2024-06-01
+C102,arjun.rao@mail.com,900,2024-06-02
+C103,rina.kapoor@mail.com,0,2024-06-03
+C104,,300,2024-06-04
+C105,rahul.patel@mail.com,750,
+C106,sara.mukherjee@mail.com,1150,2024-06-06
