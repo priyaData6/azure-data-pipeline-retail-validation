@@ -1,0 +1,7 @@
+customer_id,email,amount,created_date
+C201,anita.singh@mail.com,3000,2024-06-10
+C202,naveen.kumar@mail.com,2200,2024-06-11
+C203,,1300,2024-06-12
+C204,manoj.mishra@mail.com,-500,2024-06-13
+C205,swati.rai@mail.com,1800,
+C206,vijay.mehra@mail.com,950,2024-06-14
